@@ -1,0 +1,1 @@
+console.log("i am  haohao");var a=10;function aa(o,l){console.log(o),console.log(l)}console.log(a),console.log("我是晨哥哥"),console.log("我是噢");
